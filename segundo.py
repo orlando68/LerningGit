@@ -1,2 +1,2 @@
 import scipy as sp
-import numpy
+import numpy as np
