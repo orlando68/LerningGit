@@ -7,4 +7,5 @@ a3 = np.cos(13)
 b = np.sin(10)
 c = np.sin(11)
 print(a)
-# lo he mergeado
+# lo he
+print('escribo en 2')
