@@ -9,3 +9,4 @@ c = np.sin(11)
 print(a)
 # lo he mergeado
 print('escribo en 3')
+print('no se que pasa')
